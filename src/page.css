@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+}
+.flex-container {
+  display: flex;
+  background-color: rgb(238, 238, 218);
+  width: 300x;
+  height: 50px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 20px;
+  flex-wrap: wrap;
+}
+#flex {
+  background-color: rgb(27, 188, 194);
+  text-decoration: none;
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  padding-top: 6px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+.text {
+  float: right;
+}
+.home-image {
+  width: 50%;
+  float: left;
+  flex-wrap: wrap;
+}
+.home-para {
+  width: 50%;
+  float: right;
+  text-align: justify;
+}
+h2 {
+  text-align: center;
+}
+#homepage {
+  width: 100%;
+}
+#aboutus {
+  width: 100%;
+}
+.container-about {
+  width: 50%;
+  float: left;
+}
+.about-para {
+  width: 50%;
+  float: right;
+  text-align: justify;
+}
+#career {
+  width: 100%;
+}
+.container-career {
+  width: 50%;
+  float: left;
+}
+.carrer-para {
+  width: 50%;
+  float: right;
+  text-align: justify;
+}
+
+.float-left {
+  width: 50%;
+  float: left;
+}
+.float-right {
+  width: 50%;
+  float: right;
+}
+hr {
+  width: 100%;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+h1 {
+  text-align: center;
+}

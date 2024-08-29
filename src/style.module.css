@@ -1,0 +1,10 @@
+.example {
+  display: flex;
+  background-color: rgb(238, 238, 218);
+  width: 300x;
+  height: 50px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 20px;
+  flex-wrap: wrap;
+}

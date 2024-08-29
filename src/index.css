@@ -1,0 +1,80 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ul{
+  display: grid;
+  grid-template-columns: repeat(3,390px);
+}
+li{
+  list-style: none;
+}
+li>img{
+  height: 300px;
+  width: 400px;
+}
+#root{
+  display: flex;
+} */
+/* body {
+  font-family: "PT Sans", sans-serif;
+  margin: 0;
+  background-color: black;
+  background: url("https://jolly-kalam-23776e.netlify.app/mytunes/img/showcase.jpeg")
+    no-repeat center / cover;
+}
+li {
+  display: inline;
+  padding: 10px;
+  color: #eee;
+  margin: 0;
+}
+ul {
+  background-color: #333333;
+  padding: 14px 20px;
+  display: block;
+}
+.navbar {
+  background-color: #333;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  height: 40px;
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  padding-left: 10px;
+  padding-right: 12px;
+}
+
+.navbar-item:hover {
+  background-color: #575757;
+  border-radius: 1px;
+}
+.tunes {
+  margin-top: 20px;
+  color: #eee;
+  text-align: center;
+  padding-top: 12px;
+}
+.tunes h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+  padding-left: 100px;
+}
+.tunes h2 {
+  font-size: 2rem;
+} */
